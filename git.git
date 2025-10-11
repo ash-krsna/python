@@ -1,0 +1,5 @@
+cd D:\Python
+git add .
+git commit -m "Describe your changes"
+git pull origin main --rebase   # updates local branch safely
+git push origin main             # push changes
