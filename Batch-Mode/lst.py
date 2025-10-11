@@ -1,0 +1,5 @@
+lst = [10,"rs", 34.56,]
+print("List Values =",lst) # list values  [10,'rs',34.56]
+print("List Values =" + str(lst)) #list values [10,'rs',34.56]
+print("List Values = {}".format(lst)) #list values [10,'rs',34.56]
+print(f"List Values = {lst}") #list values = [10,'rs',34.56]

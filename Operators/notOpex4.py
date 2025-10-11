@@ -1,0 +1,12 @@
+a = not 10
+print(f"not 10 = {a}")
+b = not 0
+print(f"not 0 = {b}")
+c = not 10 - 10
+print(f"10 - 10 = {c}")
+d = not "Python"
+print("Python = {}".format(d))
+e = not 0b1010 - 0b1010
+print("0b1010 - 0b1010 = {}".format(e))
+f = not "" # If i add space between this "dual quotes" then it will be False
+print('not " " = {}'.format(f))
