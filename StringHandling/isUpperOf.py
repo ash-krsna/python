@@ -1,0 +1,10 @@
+s = "PYTHON"
+print('s = "PYTHON"',s.isupper())
+s = "python"
+print('s = "python"',s.isupper())
+s = "PYTHON"
+print('s = "PYTHON"',s.isupper())
+s = "123"
+print('s = "123"',s.isupper())
+s = "!@#$%^"
+print('s = "!@#$%^"',s.isupper())
