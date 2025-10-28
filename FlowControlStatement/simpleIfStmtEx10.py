@@ -21,6 +21,8 @@ try:
         print("\t {} is EIGHT".format(d))
     if(d == 9):
         print("\t {} is NINE".format(d))
+    if(d > 9):
+        print("Its a Digit")
     if(d<0) and d not in[-1,-2,-3,-4,-5,-6,-7,-8,-9]:
         print("\t{} is -VE NUMBER".format(d))
     if(d<0) and d in range(-1,10,-1):

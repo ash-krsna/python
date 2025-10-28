@@ -1,0 +1,17 @@
+def menu():
+    from colorama import Fore,Style,Back,init
+    init(autoreset=True)
+    print(Fore.CYAN + "-"*60 + Style.RESET_ALL )
+    print(Fore.GREEN + "\t\tBanking Infromation System")
+    print(Fore.CYAN + "-"*60 + Style.RESET_ALL )
+    print(Fore.YELLOW + "\t1. Add New Customer" + Style.DIM)
+    print(Fore.YELLOW + "\t2. Delete Customer" + Style.DIM)
+    print(Fore.YELLOW + "\t3. Deposit Account Balance" + Style.DIM)
+    print(Fore.YELLOW + "\t4. Withdraw Account Balance" + Style.DIM)
+    print(Fore.YELLOW + "\t5. View Customer Details" + Style.DIM)
+    print(Fore.YELLOW + "\t6. View All Customer Details" + Style.DIM)
+    print(Fore.YELLOW + "\t7. Search Customer Details" + Style.DIM)
+    print(Fore.YELLOW + "\t8. Generate Pin" + Style.DIM)
+    print(Fore.YELLOW + "\t9. Update Pin" + Style.DIM)
+    print(Fore.CYAN + "-"*60 + Style.RESET_ALL )
+menu()
