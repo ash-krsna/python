@@ -4,3 +4,4 @@ fp = open("hyd1.data","w")
 print("File Created newly and opened in write mode")
 print("Type of fp=",type(fp))
 print("-"*50)
+ 
