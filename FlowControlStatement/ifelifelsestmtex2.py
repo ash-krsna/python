@@ -7,4 +7,3 @@ elif(val < 0):
 else:
     print("\t {} is ZERO".format(val))
 print("I am from outer if else statement")
-
