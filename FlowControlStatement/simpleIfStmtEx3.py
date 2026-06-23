@@ -6,4 +6,4 @@ if(val<0):
       print("\t{} is Negative".format(val))
 if(val == 0):
      print("\t{} is Zero".format(val))
-print("Program execution is completed")
+print("Program execution is completed") 
