@@ -7,4 +7,4 @@ try:
         area = side * side
         print(f"Area of Square who have side ={side} area is ={area}")
 except ValueError:
-    print("Enter Numbers Only")
+    print("Enter Numbers Only") 
