@@ -9,4 +9,4 @@ try:
         print(f"Area of Traingle is = {area}")
     print("Program Execution Completed")
 except ValueError:
-    print("Enter Numbers Only")
+    print("Enter Numbers Only") 
