@@ -9,4 +9,4 @@ try:
         print("Area of Rectangle =",area)
     print("Program Execution Completed")
 except ValueError:
-    print("Enter Numbers Only")
+    print("Enter Numbers Only") 
