@@ -6,4 +6,4 @@ elif(value > 0) and (value % 2 != 0):
     print("\t {} is +VE ODD".format(value))
 elif(value < 0):
     print("\t {} is Invalid Input".format(value))
-print("Program Execution Completed")
+print("Program Execution Completed") 
