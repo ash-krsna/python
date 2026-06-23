@@ -26,4 +26,3 @@ while(True):
     elif(d > 9):
         print("\t {} is +VE DIGIT".format(d))
         break
-
