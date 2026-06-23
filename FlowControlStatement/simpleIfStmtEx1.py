@@ -3,4 +3,4 @@ if tkt.lower() == "yes":
     print("\tEnter into theater")
     print("\tWatch the movie")
     print("\tUnderstand the message")
-print("Goto Hoem and Reaad Python Notes")
+print("Goto Hoem and Reaad Python Notes") 
