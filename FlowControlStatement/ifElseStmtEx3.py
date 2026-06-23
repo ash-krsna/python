@@ -7,4 +7,4 @@ else:
         print("\t {} is +VE ODD".format(value))
     else:
         print("\t{} is Invalid Input".format(value))
-print("\tProgram execution completed")
+print("\tProgram execution completed") 
