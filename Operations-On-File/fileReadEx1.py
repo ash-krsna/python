@@ -9,4 +9,4 @@ def fileread():
     except FileNotFoundError:
         print("File does not exist")
 #main program
-fileread()
+fileread() 
