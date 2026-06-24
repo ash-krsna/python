@@ -12,4 +12,4 @@ try:
     print("I am out-off with open() as indentation block")
     print("\t if file closed =",fp.closed)
 except FileExistsError:
-    print("File already exist-try with new file")
+    print("File already exist-try with new file") 
