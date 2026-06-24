@@ -7,4 +7,4 @@ def fileread():
             print(val,end=" ")
     print("-"*50)
 #main program
-fileread()
+fileread() 
