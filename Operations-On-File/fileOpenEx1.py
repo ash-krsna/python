@@ -9,7 +9,7 @@ finally:
     print("-"*50)
     print("I am from finally block")
     try:
-        print("Still File is closed=",fp.closed)
+        print("Still File is closed=",fp.closed) 
         print("-"*50)
         fp.close()
         print("Still file is closed",fp.closed)
