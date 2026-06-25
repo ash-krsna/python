@@ -23,5 +23,5 @@ def move_zeroes(nums):
     # After all non-zero elements have been moved, fill the rest of the list with zeros
     for i in range(non_zero_index, len(nums)):
         nums[i] = 0
-# Example usage:
+# Example usage: 
 nums = [0, 1, 0, 3, 12]
