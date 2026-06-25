@@ -6,3 +6,4 @@ minvalue = "All Value are Equal" if a == b == c else ("A is Min" if a<=b and a<=
 print("----------------")
 print(minvalue)
 
+ 
