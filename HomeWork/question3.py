@@ -6,4 +6,4 @@ n = len(nums)
 total = n * (n + 1) // 2n  asdfj
 sum_of_nums = sum(nums)
 missing_number = total - sum_of_nums
-print(missing_number)
+print(missing_number) 
