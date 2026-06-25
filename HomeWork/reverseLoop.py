@@ -9,4 +9,4 @@ else:
     while (i >= 1):
         if i % 2 == 0:
             print("\t\t{}".format(i))
-        i = i - 1
+        i = i - 1 
