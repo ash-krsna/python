@@ -9,4 +9,4 @@ for ch in s:
         continue
     print(ch,end = " ")
 else:
-    print()
+    print() 
