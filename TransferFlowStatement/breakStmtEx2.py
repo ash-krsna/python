@@ -14,7 +14,7 @@ while i < len(s):
     ch = s[i]
     if ch == "O":     # stop before 'O'
         break
-    print(ch, end="")
+    print(ch, end="") 
     i = i + 1
 else:
     print("I am from else part of while loop")
