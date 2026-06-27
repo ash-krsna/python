@@ -10,4 +10,4 @@ s = "!@#$%^"
 print('s = "!@#$%^"',s.isalpha())
 s = "AaBbZz"
 print('s = "AaBbZz"',s.isalpha())
-
+ 
