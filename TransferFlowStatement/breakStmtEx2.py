@@ -18,4 +18,4 @@ while i < len(s):
     i = i + 1
 else:
     print("I am from else part of while loop")
-print("\n" + "-" * 50)
+print("\n" + "-" * 50) 
