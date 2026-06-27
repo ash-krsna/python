@@ -9,4 +9,4 @@ print(s)
 print('s = "PYTHON" -> ',s.lower())
 s = "PYThon"
 print(s)
-print('s = "PYThon" -> ', s.lower())
+print('s = "PYThon" -> ', s.lower()) 
