@@ -10,3 +10,4 @@ s = "python3.10"
 print('s = "python3.10"',s.isalnum())
 
 
+ 
