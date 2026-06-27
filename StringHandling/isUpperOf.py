@@ -7,4 +7,4 @@ print('s = "PYTHON"',s.isupper())
 s = "123"
 print('s = "123"',s.isupper())
 s = "!@#$%^"
-print('s = "!@#$%^"',s.isupper())
+print('s = "!@#$%^"',s.isupper()) 
