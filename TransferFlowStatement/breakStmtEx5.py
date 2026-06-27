@@ -11,3 +11,4 @@ else:
             res = "NOT PRIME"
             break  # exit loop if divisor is found
     print("{} is {}".format(n, res))
+  
