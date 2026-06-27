@@ -16,4 +16,4 @@ for ch in s:  # s = "PYTHON"
 else:
     print("I am from else part of for loop")
 
-print("\n" + "-" * 50)
+print("\n" + "-" * 50) 
