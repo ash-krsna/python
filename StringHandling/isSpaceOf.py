@@ -8,3 +8,4 @@ print('s = "Radha Rani"',s.isalpha())
 print('s = "Radha Rani"',s.isalpha() or s.isspace())
 b = s.isalpha() or s.isspace()
 print(b)
+ 
