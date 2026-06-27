@@ -15,4 +15,4 @@ print("Year",dob[2])
 
 s = "Apple #Banana #Kiwi / Guava"
 words = s.split("#")
-print(words)
+print(words) 
