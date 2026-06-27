@@ -12,3 +12,4 @@ while i < len(word):
 
 print("{} is {}".format(word, decision))
  
+ 
