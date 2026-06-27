@@ -5,7 +5,7 @@ if n <= 1:
     print("\t{} is invalid input".format(n))
 else:
     res = True
-    for i in range(2, n):
+    for i in range(2, n): 
         if n % i == 0:
             res = False
             break
