@@ -1,2 +1,2 @@
 s = "PyThOn"
-print(s,'->',s.swapcase())
+print(s,'->',s.swapcase()) 
