@@ -7,7 +7,7 @@ print(s.capitalize())
 
 s = "Python"
 print(s,type(s))
-print(s.capitalize())
+print(s.capitalize()) 
 print(s,type(s))
 s = s.capitalize()
 print(s,type(s))
