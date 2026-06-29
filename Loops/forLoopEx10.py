@@ -9,7 +9,7 @@ else:
     p = 1 #mulplicative identity
     for i in range(1,n+1):
         print("\t{}".format(i))
-        p = p * i
+        p = p * i 
     else:
         print("-"*50)
         print("Product = {}".format(p))
