@@ -7,4 +7,4 @@ else:
     for i in range(1, n+1):
         fact = fact * i
     else:
-        print("Factorial({}) = {}".format(n,fact))
+        print("Factorial({}) = {}".format(n,fact)) 
