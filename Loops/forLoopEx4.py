@@ -20,4 +20,4 @@ print("-"*50)
 print("By using for loop in backward direction with -Ve indices")
 for i in range(-1, -(len(s)+1),-1):
     print("\t{}".format(s[i]))
-print("-"*50)
+print("-"*50) 
