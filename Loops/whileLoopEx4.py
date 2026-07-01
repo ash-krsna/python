@@ -12,4 +12,4 @@ else:
             print('\t{}'.format(i))
         i=i+1
     else:
-        print("-"*50)
+        print("-"*50) 
