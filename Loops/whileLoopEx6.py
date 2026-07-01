@@ -25,5 +25,5 @@ print("-"*50)
 i = -1
 while(i>=-len(word[i])):
     print("\t{}".format(word[i]))
-    i = i - 1
+    i = i - 1 
 print("-"*50)
