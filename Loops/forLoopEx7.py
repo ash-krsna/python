@@ -23,4 +23,4 @@ else:
         print("\t{} X {} = {}".format(n,i,n*i))
         i += 1
     else:
-        print('-'*50)
+        print('-'*50) 
