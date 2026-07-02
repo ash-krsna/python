@@ -14,3 +14,4 @@ inn=outer(100)
 inn(10)
 inn(20)
 inn(30)
+ 
