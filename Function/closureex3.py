@@ -9,6 +9,6 @@ def  welcome(sname): # Outer Function
 
 #Main Program
 grt=welcome("Rossum")
-grt("Ramesh")
+grt("Ramesh") 
 grt("Rakesh")
 grt("Raj")
