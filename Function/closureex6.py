@@ -15,4 +15,4 @@ yb=licpolicy(500000)
 print("-"*50)
 for i in range(1,16):
 	yb(25000)
-print("-"*50)
+print("-"*50) 
