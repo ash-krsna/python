@@ -1,6 +1,6 @@
 #Program for accepting any digit and display its name
 d = int(input("Enter Any Digit:"))
-if(d == 0):
+if(d == 0): 
     print("\t{} is ZERO".format(d))
 else:
     if(d == 1):
