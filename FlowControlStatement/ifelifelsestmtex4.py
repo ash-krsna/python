@@ -8,7 +8,7 @@ while(True):
     elif(d == 2):
         print("\t {} is TWO".format(d))
     elif(d == 3):
-        print("\t {} is THREE".format(d))
+        print("\t {} is THREE".format(d)) 
     elif(d == 4):
         print("\t {} is FOUR".format(d))
     elif(d == 5):
