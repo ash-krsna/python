@@ -8,3 +8,4 @@ try:
         print(f"Area of Square who have side ={side} area is ={area}")
 except ValueError:
     print("Enter Numbers Only") 
+ 
