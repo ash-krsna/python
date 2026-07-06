@@ -11,7 +11,7 @@ try:
         print("\t {} is THREE".format(d))
     if(d == 4):
         print("\t {} is FOUR".format(d))
-    if(d == 5):
+    if(d == 5): 
         print("\t {} is FIVE".format(d))
     if(d == 6):
         print("\t {} is SIX".format(d))
