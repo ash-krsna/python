@@ -1,4 +1,4 @@
-#This program demonstrate How to open the file
+  #This program demonstrate How to open the file
 #FileOpenEx1.py
 try:
     fp=open("FileOpenEx1.py")
