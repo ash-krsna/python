@@ -8,7 +8,7 @@ def isunique(lst):
         records = []
         while(True):
             try:
-                record = pickle.load(fp)
+                record = pickle.load(fp) 
                 records.append(record)
             except EOFError:
         #found = True
