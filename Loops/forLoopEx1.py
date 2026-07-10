@@ -7,3 +7,4 @@ if(n >= 0):
         print("\t{}".format(i))
     else:
         print("-"*50) 
+ 
