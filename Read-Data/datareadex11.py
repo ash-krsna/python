@@ -7,3 +7,4 @@ print("-"*50)
 Perimeter = 4 * side
 print("The Perimeter of square:",Perimeter)
 print("-"*50)
+ 
