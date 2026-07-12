@@ -2,3 +2,4 @@
 print("Enter Any Value:")#user-promting message
 x = input() #reading val from key board
 print("x = {}, type = {}".format(x,type(x)))
+ 
