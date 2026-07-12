@@ -6,6 +6,6 @@ Area = l * b
 print("The Area of Rectangle:",Area)
 print("-"*50)
 Perimeter = 2 * (l + b)
-print("The Circumference:",Perimeter)
+print("The Circumference:",Perimeter) 
 print("-"*50)
 
