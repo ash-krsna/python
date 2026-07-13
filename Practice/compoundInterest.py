@@ -19,6 +19,3 @@ while True:
         b = round(a,2)
         print("Simple Interest Is:{}".format(b))
         break
-
-
-
