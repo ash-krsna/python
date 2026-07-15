@@ -5,3 +5,4 @@ if(value == value[::-1]):
 elif(value != value[::-1]):
     print("\t {} is not Palindrome".format(value))
 print("Program Execution Completed")
+ 
